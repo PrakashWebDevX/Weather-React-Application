@@ -1,9 +1,5 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Weather-State)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Weather-State?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Weather-State?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=PRAKASH92816074) <hr>
   
   <img src="./icons/favicon.svg" />
   <h2 align="center">Weather State</h2>
