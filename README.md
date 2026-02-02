@@ -6,7 +6,7 @@
 
  `Weather Web App to get the current weather state using the openweathermap API 🌐`
 
-  <a href="https://weatherstate.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://weather-charming.netlify.app"><strong>➥ Live Demo</strong></a>
 
 <img src="./icons/weather app.png" /> <hr>
 
